@@ -16,5 +16,5 @@
 
 ## Output
 If all goes well, you will get a text file named dataset.txt in the working folder
-
+The contents of which is the mean value for each measured mean and standard deviation.
 
